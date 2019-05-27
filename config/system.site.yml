@@ -1,0 +1,14 @@
+uuid: 434d0cc7-fb2e-46c2-b107-4fe7bed52ae7
+name: d8-class-sam
+mail: sammytate1@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
